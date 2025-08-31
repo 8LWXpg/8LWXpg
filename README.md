@@ -1,3 +1,5 @@
+Hobby programmer
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L21E88VM)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=8LWXpg&layout=compact&theme=github_dark_dimmed)
